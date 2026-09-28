@@ -1,0 +1,963 @@
+{
+  "assets": [
+    {
+      "id": "GJ-PWD-BRG-0001",
+      "name": "Sabarmati East Bridge",
+      "type": "Bridge",
+      "department": "Public Works",
+      "district": "Ahmedabad",
+      "status": "Operational",
+      "condition": "Fair",
+      "risk": "High",
+      "score": 86,
+      "updated": "2h ago",
+      "x": 28,
+      "y": 36,
+      "history": [
+        "Asset registered and deployed",
+        "Inspection: condition changed to Fair",
+        "Risk model flagged high maintenance exposure"
+      ],
+      "latitude": 23.0276,
+      "longitude": 72.5817,
+      "address": "Sabarmati Riverfront East, Ahmedabad"
+    },
+    {
+      "id": "GJ-EDU-SCH-0023",
+      "name": "Naranpura Primary School",
+      "type": "School",
+      "department": "Education",
+      "district": "Ahmedabad",
+      "status": "Operational",
+      "condition": "Good",
+      "risk": "Low",
+      "score": 24,
+      "updated": "Yesterday",
+      "x": 52,
+      "y": 25,
+      "history": [
+        "Asset acquired",
+        "Annual inspection passed"
+      ],
+      "latitude": 23.0588,
+      "longitude": 72.5534,
+      "address": "Naranpura, Ahmedabad"
+    },
+    {
+      "id": "GJ-HEALTH-MED-0041",
+      "name": "Mobile ICU Unit 04",
+      "type": "Medical Equipment",
+      "department": "Health",
+      "district": "Gandhinagar",
+      "status": "Under maintenance",
+      "condition": "Poor",
+      "risk": "Critical",
+      "score": 94,
+      "updated": "4h ago",
+      "x": 71,
+      "y": 47,
+      "history": [
+        "Calibration overdue",
+        "Corrective maintenance opened"
+      ],
+      "latitude": 23.2156,
+      "longitude": 72.6369,
+      "address": "Civil Hospital Campus, Gandhinagar"
+    },
+    {
+      "id": "GJ-RTO-VEH-0012",
+      "name": "Emergency Response Van",
+      "type": "Ambulance",
+      "department": "Transport",
+      "district": "Vadodara",
+      "status": "Operational",
+      "condition": "Good",
+      "risk": "Medium",
+      "score": 52,
+      "updated": "3d ago",
+      "x": 62,
+      "y": 70,
+      "history": [
+        "Vehicle assigned to Vadodara district"
+      ],
+      "latitude": 22.3072,
+      "longitude": 73.1812,
+      "address": "Sayajiganj Transport Depot, Vadodara"
+    },
+    {
+      "id": "GJ-ENERGY-STL-0102",
+      "name": "Ashram Road Streetlight",
+      "type": "Streetlight",
+      "department": "Energy",
+      "district": "Ahmedabad",
+      "status": "Needs inspection",
+      "condition": "Fair",
+      "risk": "Medium",
+      "score": 61,
+      "updated": "5d ago",
+      "x": 39,
+      "y": 61,
+      "history": [
+        "Citizen report received",
+        "Inspection due"
+      ],
+      "latitude": 23.0323,
+      "longitude": 72.5687,
+      "address": "Ashram Road, Ahmedabad"
+    },
+    {
+      "id": "GJ-WATER-PIP-0088",
+      "name": "North Zone Main Pipeline",
+      "type": "Water Pipeline",
+      "department": "Water Resources",
+      "district": "Mehsana",
+      "status": "Operational",
+      "condition": "Good",
+      "risk": "Low",
+      "score": 19,
+      "updated": "1w ago",
+      "x": 83,
+      "y": 29,
+      "history": [
+        "Pressure inspection passed"
+      ],
+      "latitude": 23.588,
+      "longitude": 72.3693,
+      "address": "North Zone, Mehsana"
+    },
+    {
+      "name": "Hackathon Demo Depot",
+      "type": "Building",
+      "department": "Public Works",
+      "district": "Ahmedabad",
+      "status": "Planned",
+      "condition": "Good",
+      "risk": "Low",
+      "score": 12,
+      "x": 44,
+      "y": 44,
+      "id": "GJ-DEMO-0007",
+      "history": [
+        "Asset created as planned record"
+      ],
+      "updated": "Just now",
+      "latitude": 23.0225,
+      "longitude": 72.5714,
+      "address": "Ahmedabad, Gujarat"
+    },
+    {
+      "id": "GJ-DEMO-0008",
+      "name": "Taher Gandhi",
+      "type": "Bridge",
+      "department": "Public Works",
+      "district": "Ahmedbad",
+      "status": "Planned",
+      "condition": "Good",
+      "risk": "Low",
+      "score": 12,
+      "updated": "Just now",
+      "x": 41,
+      "y": 79,
+      "history": [
+        "Asset created as planned record"
+      ],
+      "latitude": 23.0225,
+      "longitude": 72.5714,
+      "address": "Ahmedabad, Gujarat"
+    },
+    {
+      "id": "GJ-DEMO-0009",
+      "name": "Taher ",
+      "type": "Bridge",
+      "department": "Public Works",
+      "district": "mumbai",
+      "status": "Planned",
+      "condition": "Good",
+      "risk": "Low",
+      "score": 12,
+      "updated": "Just now",
+      "x": 54,
+      "y": 36,
+      "latitude": 23.0225,
+      "longitude": 72.5714,
+      "address": "Gujarat, India",
+      "history": [
+        "Asset created as planned record"
+      ]
+    },
+    {
+      "id": "GJ-DEMO-0010",
+      "name": "mk.cnklcvs",
+      "type": "Bridge",
+      "department": "Public Works",
+      "district": "Rajkot",
+      "status": "Planned",
+      "condition": "Good",
+      "risk": "Low",
+      "score": 12,
+      "updated": "Just now",
+      "x": 67,
+      "y": 53,
+      "latitude": 23.0225,
+      "longitude": 72.5714,
+      "address": "Gujarat, India",
+      "history": [
+        "Asset created as planned record"
+      ]
+    }
+  ],
+  "workOrders": [
+    {
+      "id": "WO-24091",
+      "assetId": "GJ-PWD-BRG-0001",
+      "issue": "Structural inspection and corrosion treatment",
+      "priority": "High",
+      "status": "Open",
+      "assignee": "Unassigned",
+      "created": "Today"
+    },
+    {
+      "id": "WO-24088",
+      "assetId": "GJ-HEALTH-MED-0041",
+      "issue": "Replace failed oxygen sensor",
+      "priority": "Critical",
+      "status": "In progress",
+      "assignee": "Health Engineering",
+      "created": "Yesterday"
+    },
+    {
+      "id": "WO-24077",
+      "assetId": "GJ-ENERGY-STL-0102",
+      "issue": "Streetlight not working",
+      "priority": "Medium",
+      "status": "Verification",
+      "assignee": "Energy Field Team",
+      "created": "3d ago"
+    }
+  ],
+  "reports": [
+    {
+      "id": "CR-0088",
+      "assetId": "GJ-ENERGY-STL-0102",
+      "issue": "Streetlight is not working after 8 PM",
+      "status": "Reported",
+      "created": "Today"
+    }
+  ],
+  "audit": [
+    {
+      "id": "d35a7a43-964e-45e4-8003-5bb12d2bb0e3",
+      "action": "Data synchronized",
+      "entity": "system",
+      "entityId": "civicasset",
+      "actor": "demo.admin",
+      "timestamp": "2026-09-28T12:08:37.527Z",
+      "details": {}
+    },
+    {
+      "id": "a9fc1704-d6b6-4227-8b56-cdc0c7328e75",
+      "action": "Data synchronized",
+      "entity": "system",
+      "entityId": "civicasset",
+      "actor": "demo.admin",
+      "timestamp": "2026-09-28T12:07:43.156Z",
+      "details": {}
+    },
+    {
+      "id": "d334ced2-a8f1-48f4-9e29-bfabdb2c6e03",
+      "action": "Data synchronized",
+      "entity": "system",
+      "entityId": "civicasset",
+      "actor": "demo.admin",
+      "timestamp": "2026-09-28T12:07:42.846Z",
+      "details": {}
+    },
+    {
+      "id": "e573777d-be75-43ee-97c8-438c338d3853",
+      "action": "Data synchronized",
+      "entity": "system",
+      "entityId": "civicasset",
+      "actor": "demo.admin",
+      "timestamp": "2026-09-28T12:07:42.776Z",
+      "details": {}
+    },
+    {
+      "id": "69a4261c-698e-4fe5-9673-481d2b413133",
+      "action": "Data synchronized",
+      "entity": "system",
+      "entityId": "civicasset",
+      "actor": "demo.admin",
+      "timestamp": "2026-09-28T12:07:42.574Z",
+      "details": {}
+    },
+    {
+      "id": "7b3c6314-c96f-49f6-9db9-7fdf02a91bb7",
+      "action": "Data synchronized",
+      "entity": "system",
+      "entityId": "civicasset",
+      "actor": "demo.admin",
+      "timestamp": "2026-09-28T12:07:42.542Z",
+      "details": {}
+    },
+    {
+      "id": "3c29455e-4f3d-4728-954b-e289c464c463",
+      "action": "Data synchronized",
+      "entity": "system",
+      "entityId": "civicasset",
+      "actor": "demo.admin",
+      "timestamp": "2026-09-28T12:07:42.497Z",
+      "details": {}
+    },
+    {
+      "id": "b7ab362c-e590-48fb-b3dc-9c0ef55c0bb2",
+      "action": "Data synchronized",
+      "entity": "system",
+      "entityId": "civicasset",
+      "actor": "demo.admin",
+      "timestamp": "2026-09-28T12:07:40.777Z",
+      "details": {}
+    },
+    {
+      "id": "34c0dc90-038d-4a96-80c5-67a673e8f361",
+      "action": "Data synchronized",
+      "entity": "system",
+      "entityId": "civicasset",
+      "actor": "demo.admin",
+      "timestamp": "2026-09-28T12:07:40.507Z",
+      "details": {}
+    },
+    {
+      "id": "b3e62140-61da-4d2c-9ceb-f619ed5cbf9a",
+      "action": "Data synchronized",
+      "entity": "system",
+      "entityId": "civicasset",
+      "actor": "demo.admin",
+      "timestamp": "2026-09-28T12:07:39.775Z",
+      "details": {}
+    },
+    {
+      "id": "65524fd3-e5a3-47d9-a42e-1877f7614397",
+      "action": "Data synchronized",
+      "entity": "system",
+      "entityId": "civicasset",
+      "actor": "demo.admin",
+      "timestamp": "2026-09-28T12:07:39.713Z",
+      "details": {}
+    },
+    {
+      "id": "ab0a4472-0a38-4045-9a6e-2d049bfe67ac",
+      "action": "Data synchronized",
+      "entity": "system",
+      "entityId": "civicasset",
+      "actor": "demo.admin",
+      "timestamp": "2026-09-28T12:07:39.584Z",
+      "details": {}
+    },
+    {
+      "id": "b52af6d8-efbc-4277-b1dd-b61e9164ae53",
+      "action": "Data synchronized",
+      "entity": "system",
+      "entityId": "civicasset",
+      "actor": "demo.admin",
+      "timestamp": "2026-09-28T12:07:39.529Z",
+      "details": {}
+    },
+    {
+      "id": "00e6d2e1-613e-49ac-b2b1-e5d7ecd386a4",
+      "action": "Data synchronized",
+      "entity": "system",
+      "entityId": "civicasset",
+      "actor": "demo.admin",
+      "timestamp": "2026-09-28T12:07:39.524Z",
+      "details": {}
+    },
+    {
+      "id": "8728056f-86f8-4cf0-84d4-a9f7a12bf857",
+      "action": "Data synchronized",
+      "entity": "system",
+      "entityId": "civicasset",
+      "actor": "demo.admin",
+      "timestamp": "2026-09-28T12:07:39.517Z",
+      "details": {}
+    },
+    {
+      "id": "105cefbf-30ba-4e24-a065-6fcb29f06a32",
+      "action": "Data synchronized",
+      "entity": "system",
+      "entityId": "civicasset",
+      "actor": "demo.admin",
+      "timestamp": "2026-09-28T12:07:39.386Z",
+      "details": {}
+    },
+    {
+      "id": "df27ad5b-27c9-4112-8229-e987eda3cf64",
+      "action": "Data synchronized",
+      "entity": "system",
+      "entityId": "civicasset",
+      "actor": "demo.admin",
+      "timestamp": "2026-09-28T12:07:33.435Z",
+      "details": {}
+    },
+    {
+      "id": "b0927d1b-b067-4d76-ac2b-ea6704496d8f",
+      "action": "Data synchronized",
+      "entity": "system",
+      "entityId": "civicasset",
+      "actor": "demo.admin",
+      "timestamp": "2026-09-28T12:07:01.739Z",
+      "details": {}
+    },
+    {
+      "id": "667f09bd-628b-4c31-ad59-6c29487619fc",
+      "action": "Data synchronized",
+      "entity": "system",
+      "entityId": "civicasset",
+      "actor": "demo.admin",
+      "timestamp": "2026-09-28T12:07:01.551Z",
+      "details": {}
+    },
+    {
+      "id": "ad209773-f764-4586-a4b1-aa4ef4724a45",
+      "action": "Data synchronized",
+      "entity": "system",
+      "entityId": "civicasset",
+      "actor": "demo.admin",
+      "timestamp": "2026-09-28T12:07:01.215Z",
+      "details": {}
+    },
+    {
+      "id": "7c85888a-8e9a-4478-ba46-6a4b824a48aa",
+      "action": "Data synchronized",
+      "entity": "system",
+      "entityId": "civicasset",
+      "actor": "demo.admin",
+      "timestamp": "2026-09-28T12:07:00.675Z",
+      "details": {}
+    },
+    {
+      "id": "9c5e060e-a3eb-4762-8b0f-0bf0bb1b845d",
+      "action": "Data synchronized",
+      "entity": "system",
+      "entityId": "civicasset",
+      "actor": "demo.admin",
+      "timestamp": "2026-09-28T12:07:00.397Z",
+      "details": {}
+    },
+    {
+      "id": "d6c61cfa-0f23-4077-b416-8e8b0da24357",
+      "action": "Data synchronized",
+      "entity": "system",
+      "entityId": "civicasset",
+      "actor": "demo.admin",
+      "timestamp": "2026-09-28T12:07:00.358Z",
+      "details": {}
+    },
+    {
+      "id": "be5023bd-5ae4-488c-9820-f5aacbf3483b",
+      "action": "Data synchronized",
+      "entity": "system",
+      "entityId": "civicasset",
+      "actor": "demo.admin",
+      "timestamp": "2026-09-28T12:06:59.889Z",
+      "details": {}
+    },
+    {
+      "id": "4249ce77-b8e8-426f-950d-abe205c790a3",
+      "action": "Data synchronized",
+      "entity": "system",
+      "entityId": "civicasset",
+      "actor": "demo.admin",
+      "timestamp": "2026-09-28T12:06:59.613Z",
+      "details": {}
+    },
+    {
+      "id": "79f93442-c5c0-4808-b9de-536f9083e120",
+      "action": "Data synchronized",
+      "entity": "system",
+      "entityId": "civicasset",
+      "actor": "demo.admin",
+      "timestamp": "2026-09-28T12:06:59.497Z",
+      "details": {}
+    },
+    {
+      "id": "31f550cf-a085-4e94-8283-e8903b5793a8",
+      "action": "Data synchronized",
+      "entity": "system",
+      "entityId": "civicasset",
+      "actor": "demo.admin",
+      "timestamp": "2026-09-28T12:06:59.490Z",
+      "details": {}
+    },
+    {
+      "id": "74d8d8d7-c97a-4abf-b419-4493fdce73f8",
+      "action": "Data synchronized",
+      "entity": "system",
+      "entityId": "civicasset",
+      "actor": "demo.admin",
+      "timestamp": "2026-09-28T12:06:59.299Z",
+      "details": {}
+    },
+    {
+      "id": "d6accda6-011e-47a7-8c76-84c43c85f294",
+      "action": "Data synchronized",
+      "entity": "system",
+      "entityId": "civicasset",
+      "actor": "demo.admin",
+      "timestamp": "2026-09-28T12:06:58.214Z",
+      "details": {}
+    },
+    {
+      "id": "0d7afc61-fd40-493c-b77a-c04ade189894",
+      "action": "Data synchronized",
+      "entity": "system",
+      "entityId": "civicasset",
+      "actor": "demo.admin",
+      "timestamp": "2026-09-28T12:06:58.061Z",
+      "details": {}
+    },
+    {
+      "id": "8a416cbe-37c9-469a-b753-3092440cd150",
+      "action": "Data synchronized",
+      "entity": "system",
+      "entityId": "civicasset",
+      "actor": "demo.admin",
+      "timestamp": "2026-09-28T12:06:55.260Z",
+      "details": {}
+    },
+    {
+      "id": "7f22e82d-6eac-434f-b603-cfcb521d8d3d",
+      "action": "Data synchronized",
+      "entity": "system",
+      "entityId": "civicasset",
+      "actor": "demo.admin",
+      "timestamp": "2026-09-28T12:06:54.835Z",
+      "details": {}
+    },
+    {
+      "id": "bd11a933-17f7-496d-b600-5165caeddda5",
+      "action": "Data synchronized",
+      "entity": "system",
+      "entityId": "civicasset",
+      "actor": "demo.admin",
+      "timestamp": "2026-09-28T12:06:54.767Z",
+      "details": {}
+    },
+    {
+      "id": "89394e32-60c1-478a-81c5-51b2f8a3f31e",
+      "action": "Data synchronized",
+      "entity": "system",
+      "entityId": "civicasset",
+      "actor": "demo.admin",
+      "timestamp": "2026-09-28T12:06:52.792Z",
+      "details": {}
+    },
+    {
+      "id": "e8f0001b-7379-4abb-8e27-42108e80086f",
+      "action": "Data synchronized",
+      "entity": "system",
+      "entityId": "civicasset",
+      "actor": "demo.admin",
+      "timestamp": "2026-09-28T11:45:47.722Z",
+      "details": {}
+    },
+    {
+      "id": "ba91a317-d379-454e-ab5c-af79426e0f68",
+      "action": "Data synchronized",
+      "entity": "system",
+      "entityId": "civicasset",
+      "actor": "demo.admin",
+      "timestamp": "2026-09-28T11:45:42.699Z",
+      "details": {}
+    },
+    {
+      "id": "7524d927-d4a6-400a-92bc-86687ade4dd8",
+      "action": "Data synchronized",
+      "entity": "system",
+      "entityId": "civicasset",
+      "actor": "demo.admin",
+      "timestamp": "2026-09-28T11:44:54.393Z",
+      "details": {}
+    },
+    {
+      "id": "3a203f7c-7c26-428c-bc7e-60e8b70741ff",
+      "action": "Data synchronized",
+      "entity": "system",
+      "entityId": "civicasset",
+      "actor": "demo.admin",
+      "timestamp": "2026-09-28T11:44:14.800Z",
+      "details": {}
+    },
+    {
+      "id": "b85636a3-bfed-4d42-a1ba-ad1380e57278",
+      "action": "Data synchronized",
+      "entity": "system",
+      "entityId": "civicasset",
+      "actor": "demo.admin",
+      "timestamp": "2026-09-28T11:44:14.772Z",
+      "details": {}
+    },
+    {
+      "id": "cd890b16-eaf4-4b3d-b408-84e7a047b6d2",
+      "action": "Data synchronized",
+      "entity": "system",
+      "entityId": "civicasset",
+      "actor": "demo.admin",
+      "timestamp": "2026-09-28T11:44:14.647Z",
+      "details": {}
+    },
+    {
+      "id": "50f30fde-f49a-48e1-982d-0cc206fd09a9",
+      "action": "Data synchronized",
+      "entity": "system",
+      "entityId": "civicasset",
+      "actor": "demo.admin",
+      "timestamp": "2026-09-28T11:44:14.572Z",
+      "details": {}
+    },
+    {
+      "id": "cb2adb6f-d850-4bd4-b51e-ed34c516d19e",
+      "action": "Data synchronized",
+      "entity": "system",
+      "entityId": "civicasset",
+      "actor": "demo.admin",
+      "timestamp": "2026-09-28T11:44:14.028Z",
+      "details": {}
+    },
+    {
+      "id": "9b017748-913d-40f7-9113-bd3925875840",
+      "action": "Data synchronized",
+      "entity": "system",
+      "entityId": "civicasset",
+      "actor": "demo.admin",
+      "timestamp": "2026-09-28T11:44:13.233Z",
+      "details": {}
+    },
+    {
+      "id": "3067ffa4-6dfc-4383-add6-9dd1afbd5a6b",
+      "action": "Data synchronized",
+      "entity": "system",
+      "entityId": "civicasset",
+      "actor": "demo.admin",
+      "timestamp": "2026-09-28T11:44:12.279Z",
+      "details": {}
+    },
+    {
+      "id": "f56ee150-5b55-4516-b122-8815e410cd60",
+      "action": "Data synchronized",
+      "entity": "system",
+      "entityId": "civicasset",
+      "actor": "demo.admin",
+      "timestamp": "2026-09-28T11:44:12.150Z",
+      "details": {}
+    },
+    {
+      "id": "4c43cb12-e4d1-48ca-9cab-0e3843e508c6",
+      "action": "Data synchronized",
+      "entity": "system",
+      "entityId": "civicasset",
+      "actor": "demo.admin",
+      "timestamp": "2026-09-28T11:44:12.004Z",
+      "details": {}
+    },
+    {
+      "id": "736ee914-e967-480c-b561-c3f3ab3ee5d6",
+      "action": "Data synchronized",
+      "entity": "system",
+      "entityId": "civicasset",
+      "actor": "demo.admin",
+      "timestamp": "2026-09-28T11:44:11.677Z",
+      "details": {}
+    },
+    {
+      "id": "409668ad-cf4c-4329-b996-51f07751efb3",
+      "action": "Data synchronized",
+      "entity": "system",
+      "entityId": "civicasset",
+      "actor": "demo.admin",
+      "timestamp": "2026-09-28T11:44:11.379Z",
+      "details": {}
+    },
+    {
+      "id": "ad09985a-db15-4f3e-815f-02e62c46dbf6",
+      "action": "Data synchronized",
+      "entity": "system",
+      "entityId": "civicasset",
+      "actor": "demo.admin",
+      "timestamp": "2026-09-28T11:44:09.414Z",
+      "details": {}
+    },
+    {
+      "id": "9c5ff202-d029-418c-b2e3-b63a3751b546",
+      "action": "Data synchronized",
+      "entity": "system",
+      "entityId": "civicasset",
+      "actor": "demo.admin",
+      "timestamp": "2026-09-28T11:42:31.835Z",
+      "details": {}
+    },
+    {
+      "id": "6ddec993-9f2c-479f-8c12-b2dd290641d7",
+      "action": "Data synchronized",
+      "entity": "system",
+      "entityId": "civicasset",
+      "actor": "demo.admin",
+      "timestamp": "2026-09-28T11:42:31.817Z",
+      "details": {}
+    },
+    {
+      "id": "97fb63dc-8f39-4e49-85d1-35410348f92d",
+      "action": "Data synchronized",
+      "entity": "system",
+      "entityId": "civicasset",
+      "actor": "demo.admin",
+      "timestamp": "2026-09-28T11:36:36.061Z",
+      "details": {}
+    },
+    {
+      "id": "240d9f6e-dcb2-45bc-9c50-1af5cd11a1d2",
+      "action": "Data synchronized",
+      "entity": "system",
+      "entityId": "civicasset",
+      "actor": "demo.admin",
+      "timestamp": "2026-09-28T11:35:24.566Z",
+      "details": {}
+    },
+    {
+      "id": "ac10dbf4-dbfd-415d-a73d-6bdafb4a8225",
+      "action": "Data synchronized",
+      "entity": "system",
+      "entityId": "civicasset",
+      "actor": "demo.admin",
+      "timestamp": "2026-09-28T11:34:33.848Z",
+      "details": {}
+    },
+    {
+      "id": "bc7f79b3-dc6c-4f64-af23-92b21a526ed8",
+      "action": "Data synchronized",
+      "entity": "system",
+      "entityId": "civicasset",
+      "actor": "demo.admin",
+      "timestamp": "2026-09-28T11:34:02.948Z",
+      "details": {}
+    },
+    {
+      "id": "40ab6fcd-3455-4c21-8b16-ae98edc4ba76",
+      "action": "Data synchronized",
+      "entity": "system",
+      "entityId": "civicasset",
+      "actor": "demo.admin",
+      "timestamp": "2026-09-28T11:29:43.275Z",
+      "details": {}
+    },
+    {
+      "id": "32e75a17-3b6c-4daa-b70d-4dae70a9cdd5",
+      "action": "Data synchronized",
+      "entity": "system",
+      "entityId": "civicasset",
+      "actor": "demo.admin",
+      "timestamp": "2026-09-28T11:29:43.223Z",
+      "details": {}
+    },
+    {
+      "id": "38437ed6-bc68-4aea-ac71-49e47629e927",
+      "action": "Data synchronized",
+      "entity": "system",
+      "entityId": "civicasset",
+      "actor": "demo.admin",
+      "timestamp": "2026-09-28T11:29:42.999Z",
+      "details": {}
+    },
+    {
+      "id": "13efd2ec-387d-452d-abe9-f087d7c45277",
+      "action": "Data synchronized",
+      "entity": "system",
+      "entityId": "civicasset",
+      "actor": "demo.admin",
+      "timestamp": "2026-09-28T11:29:42.830Z",
+      "details": {}
+    },
+    {
+      "id": "4afc7fff-4d6a-4dab-a7f5-eba7e96a71dd",
+      "action": "Data synchronized",
+      "entity": "system",
+      "entityId": "civicasset",
+      "actor": "demo.admin",
+      "timestamp": "2026-09-28T11:29:42.829Z",
+      "details": {}
+    },
+    {
+      "id": "245f0d4f-af1c-42e7-8984-aa814eff1303",
+      "action": "Data synchronized",
+      "entity": "system",
+      "entityId": "civicasset",
+      "actor": "demo.admin",
+      "timestamp": "2026-09-28T11:29:42.819Z",
+      "details": {}
+    },
+    {
+      "id": "0f7d40cb-cf0b-428b-a23a-5bd893975a23",
+      "action": "Data synchronized",
+      "entity": "system",
+      "entityId": "civicasset",
+      "actor": "demo.admin",
+      "timestamp": "2026-09-28T11:29:42.808Z",
+      "details": {}
+    },
+    {
+      "id": "1f4cda40-607d-47aa-828c-d35e5fd8c855",
+      "action": "Data synchronized",
+      "entity": "system",
+      "entityId": "civicasset",
+      "actor": "demo.admin",
+      "timestamp": "2026-09-28T11:29:42.714Z",
+      "details": {}
+    },
+    {
+      "id": "6c0a18b2-1954-48d4-99d8-f9ab1571c7c3",
+      "action": "Data synchronized",
+      "entity": "system",
+      "entityId": "civicasset",
+      "actor": "demo.admin",
+      "timestamp": "2026-09-28T11:29:42.709Z",
+      "details": {}
+    },
+    {
+      "id": "74f05a19-22df-458f-b7e0-1c96c5f2857f",
+      "action": "Data synchronized",
+      "entity": "system",
+      "entityId": "civicasset",
+      "actor": "demo.admin",
+      "timestamp": "2026-09-28T11:29:42.690Z",
+      "details": {}
+    },
+    {
+      "id": "417752c9-b99e-45b0-afcf-57950114a1f5",
+      "action": "Data synchronized",
+      "entity": "system",
+      "entityId": "civicasset",
+      "actor": "demo.admin",
+      "timestamp": "2026-09-28T11:29:42.629Z",
+      "details": {}
+    },
+    {
+      "id": "adf97ee4-2059-4375-bc1c-67225bbc928b",
+      "action": "Data synchronized",
+      "entity": "system",
+      "entityId": "civicasset",
+      "actor": "demo.admin",
+      "timestamp": "2026-09-28T11:29:42.489Z",
+      "details": {}
+    },
+    {
+      "id": "7375b06e-ce7a-4618-a822-08f0e022565c",
+      "action": "Data synchronized",
+      "entity": "system",
+      "entityId": "civicasset",
+      "actor": "demo.admin",
+      "timestamp": "2026-09-28T11:29:40.194Z",
+      "details": {}
+    },
+    {
+      "id": "04490b40-bbc4-49ea-b975-d068204ceb36",
+      "action": "Data synchronized",
+      "entity": "system",
+      "entityId": "civicasset",
+      "actor": "demo.admin",
+      "timestamp": "2026-09-28T11:29:40.176Z",
+      "details": {}
+    },
+    {
+      "id": "45b84c85-beaa-4a5e-a802-e68abad14eb5",
+      "action": "Data synchronized",
+      "entity": "system",
+      "entityId": "civicasset",
+      "actor": "demo.admin",
+      "timestamp": "2026-09-28T11:27:34.277Z",
+      "details": {}
+    },
+    {
+      "id": "247b5c63-b391-4894-9921-ecbd812faa87",
+      "action": "Data synchronized",
+      "entity": "system",
+      "entityId": "civicasset",
+      "actor": "demo.admin",
+      "timestamp": "2026-09-28T11:27:11.862Z",
+      "details": {}
+    },
+    {
+      "id": "1cc5d1fd-a564-4ded-80b7-d5f446656fa7",
+      "action": "Data synchronized",
+      "entity": "system",
+      "entityId": "civicasset",
+      "actor": "demo.admin",
+      "timestamp": "2026-09-28T11:27:11.849Z",
+      "details": {}
+    },
+    {
+      "id": "30436a8a-a43e-4431-baaa-f97b194bdce2",
+      "action": "Data synchronized",
+      "entity": "system",
+      "entityId": "civicasset",
+      "actor": "demo.admin",
+      "timestamp": "2026-09-28T11:27:04.054Z",
+      "details": {}
+    },
+    {
+      "id": "91f4950b-e2f6-4a89-a4eb-666be060b025",
+      "action": "Data synchronized",
+      "entity": "system",
+      "entityId": "civicasset",
+      "actor": "demo.admin",
+      "timestamp": "2026-09-28T11:27:04.052Z",
+      "details": {}
+    },
+    {
+      "id": "bdced3b7-4c28-4ec5-ba0c-cf141f340770",
+      "action": "Data synchronized",
+      "entity": "system",
+      "entityId": "civicasset",
+      "actor": "demo.admin",
+      "timestamp": "2026-09-28T11:25:02.453Z",
+      "details": {}
+    },
+    {
+      "id": "3770a72d-06c5-4ce9-98df-e15483481ba9",
+      "action": "Data synchronized",
+      "entity": "system",
+      "entityId": "civicasset",
+      "actor": "demo.admin",
+      "timestamp": "2026-09-28T11:25:02.444Z",
+      "details": {}
+    },
+    {
+      "id": "c2515675-2416-4588-92c3-31717a4957f8",
+      "action": "Asset created",
+      "entity": "asset",
+      "entityId": "GJ-DEMO-0007",
+      "actor": "demo.admin",
+      "timestamp": "2026-09-28T11:24:51.386Z",
+      "details": {}
+    }
+  ],
+  "transfers": [
+    {
+      "id": "TR-0012",
+      "assetId": "GJ-RTO-VEH-0012",
+      "from": "Transport",
+      "to": "Health",
+      "location": "Vadodara → Ahmedabad",
+      "status": "Pending",
+      "requested": "Today"
+    }
+  ],
+  "approvals": [
+    {
+      "id": "AP-0041",
+      "type": "Retirement evaluation",
+      "entityId": "GJ-HEALTH-MED-0041",
+      "requester": "Health Engineering",
+      "status": "Pending",
+      "created": "Today"
+    }
+  ]
+}
